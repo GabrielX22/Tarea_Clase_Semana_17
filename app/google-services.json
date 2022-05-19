@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546398806405",
+    "project_id": "semana17-9a644",
+    "storage_bucket": "semana17-9a644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546398806405:android:a4ea5485e4b7d81148a4ec",
+        "android_client_info": {
+          "package_name": "com.example.tareaclasesemana17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546398806405-e33999vj3nv7a4n2toe6gdsvtl45n1o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzRU6ipYyBWXAsIRCPCAPa-5jttg_kG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546398806405-e33999vj3nv7a4n2toe6gdsvtl45n1o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
